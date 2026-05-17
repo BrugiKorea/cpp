@@ -2,7 +2,6 @@
 
 To repozytorium zawiera zestaw laboratoriów z przedmiotu **Programowanie w C++**, obejmujących podstawowe oraz zaawansowane zagadnienia związane z programowaniem obiektowym i strukturami danych.
 
-### Zakres tematyczny
 
 W ramach laboratoriów realizowane były następujące zagadnienia:
 
@@ -20,6 +19,3 @@ W ramach laboratoriów realizowane były następujące zagadnienia:
 - operacje na plikach (zapis i odczyt),
 - generowanie losowości.
 
-### Cel repozytorium
-
-Celem laboratoriów było rozwijanie umiejętności projektowania programów w języku C++ w oparciu o paradygmat programowania obiektowego oraz praktyczne wykorzystanie standardowej biblioteki STL.
