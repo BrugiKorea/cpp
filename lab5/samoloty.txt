@@ -1,0 +1,17 @@
+Boeing       1995
+Airbus       2008
+Cessna       1982
+Embrae      2010
+Bombar   2013
+Gulfst   2014
+Lockhe     1978
+Piper        1990
+Boeing       2005
+Airbus       2007
+Cessna       2016
+Embrae     2019
+Bombar   2015
+Gulfst   2012
+Lockhe    1992
+Piper        2004
+Boeing       2001

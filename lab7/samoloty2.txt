@@ -1,0 +1,9 @@
+<========== Samoloty ==========>
+Nazwa: Rok produkcji
+Antonow  	1984
+Kalinin  	1972
+Tupolew  	1986
+Jakowlew 	1981
+Kalinin  	1972
+Ijuszyn  	1992
+MiG      	1998

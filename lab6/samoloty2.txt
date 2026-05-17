@@ -1,0 +1,16 @@
+<========== Samoloty ==========>
+Nazwa: Rok produkcji
+            Tupolew    1993
+            Jakowlew   1982
+            Szachrow   1979
+            Moskalew   1995
+            Moskalew   1981
+            I³         1994
+            Kalinin    1999
+            Szachrow   1972
+            I³         1995
+            MiG        1987
+            I³         1987
+            Moskalew   2000
+            MiG        1989
+            Ijuszyn    2000

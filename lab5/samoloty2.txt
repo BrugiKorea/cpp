@@ -1,0 +1,9 @@
+<========== Samoloty ==========>
+Nazwa: Rok produkcji
+Jakowlew   1988
+MiG        1999
+Antonow    1986
+Tupolew    1974
+I³         1982
+MiG        1988
+Ijuszyn    1996
