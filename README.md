@@ -1,4 +1,4 @@
-## Programowanie w C++ – laboratoria
+## Programowanie w C++ 
 
 To repozytorium zawiera zestaw laboratoriów z przedmiotu **Programowanie w C++**, obejmujących podstawowe oraz zaawansowane zagadnienia związane z programowaniem obiektowym i strukturami danych.
 
